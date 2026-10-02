@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Khondaker
+    given-names: Nabil
+title: "Adaptive Mesh Refinement Monte-Carlo Engine for Path-Dependent Derivatives with Material Nonlinearity"
+version: 0.1.0
+date-released: 2025-10-01
+license: MIT
